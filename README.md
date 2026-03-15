@@ -2,6 +2,8 @@
 
 A full-stack URL shortener built with Spring Boot and React. Generates short codes using Snowflake IDs encoded in base-62, with in-memory caching, rate limiting, and visit analytics.
 
+This is mainly for refresh of basic design in case of interview questions. IK it's basic and trivial. Just need to be prepared.
+
 ## Stack
 
 **Backend**
